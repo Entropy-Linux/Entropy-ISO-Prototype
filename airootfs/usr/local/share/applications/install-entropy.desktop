@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Install Entropy
+Comment=Run Calamares installer
+Exec=sudo calamares
+Icon=system-install
+Terminal=true
+Categories=System;Installer;

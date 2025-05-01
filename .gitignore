@@ -1,0 +1,9 @@
+# ignore logs
+*.log
+# ignore build artifacts
+
+work/
+out/
+WORKFLOW/
+
+gitup.conf

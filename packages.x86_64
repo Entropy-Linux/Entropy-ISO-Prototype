@@ -139,14 +139,35 @@ htop
 fzf
 zoxide
 dialog
+gparted
 
 # === Eyecandy ===
 figlet
 neofetch
 lolcat
+boxes
+cmatrix
 
 # == DESKTOP [KDE] ==
 plasma-desktop
+polkit
+plasma-meta
+sddm
+xorg-server
+xorg-xinit
+konsole
+dolphin
+ttf-jetbrains-mono-nerd
+xcb-util-cursor
+
+# Compilers
+fakeroot
+debugedit
+hwinfo
+libpwquality
+yaml-cpp
+# ckbcomp
+# mkinitcpio-openswap
 
 #qt5-base 
 #qt5-declarative 
@@ -156,14 +177,10 @@ plasma-desktop
 #yaml-cpp 
 #boost 
 # kpmcore
-polkit
-plasma-meta
-sddm
-xorg-server
-xorg-xinit
-konsole
-# dolphin
-# kate
-# ark
 
 # ==== </Archtropy Additions> ====
+# [szmelc] AUR
+pwr
+silver-zsh
+helloszmelc
+calamares-git

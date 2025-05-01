@@ -43,7 +43,9 @@ if [[ $(tty) == "/dev/tty1" ]]; then
     automated_script
     
     # Archtropy Extended Logic
-    sleep 2 && bash .live.sh
+    chmod +x /root/.live.sh
+    bash /root/.live.sh
+    sleep 1
     # neofetch && 
-    echo "Run .live.sh if didnt worked"
+    echo "Run .live.sh if it failed"
 fi

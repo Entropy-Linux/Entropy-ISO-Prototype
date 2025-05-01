@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/local/bin/firstboot.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name='Entropy First Boot Script'
+Comment='Runs on first login'
